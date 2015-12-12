@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T09:35:31.492Z'
-dateModified: '2015-12-12T09:35:18.980Z'
+datePublished: '2015-12-12T09:41:27.546Z'
+dateModified: '2015-12-12T09:38:18.204Z'
 title: Apple Watchin paritusohjeet uuteen iPhoneen
 author: []
+sourcePath: _posts/2015-12-12-apple-watchin-paritusohjeet-uuteen-iphoneen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-apple-watchin-paritusohjeet-uuteen-iphoneen.md
-published: true
 url: apple-watchin-paritusohjeet-uuteen-iphoneen/index.html
 _type: Article
 
@@ -69,6 +69,7 @@ Sitten valitse kieli kellossasi ja täppää "Aloita paritus" sekä kellossa ett
 Suorita paritustoiminto loppuun asti ja sinulta kysytään sen ohessa haluatko ottaa kellosi käyttöön uutena vai palauttaa varmuuskopioista. Tästä eteenpäin käyt lävitse loput asetukset, kuten kummassa kädessä pidät kelloa, pääsykoodin asettaminen ja niin edelleen. Kun selviät niistä, Apple Watchisi on täsmälleen samassa tilassa kuin viimeinen varmuuskopio oli. Jopa sovellustaulu on samassa järjestyksessä.
 
 Nyt voit jatkaa Apple Watchisi käyttämistä kuten ennenkin.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db9b6aa-9610-46b8-b3e8-fe060c5fc68c.jpg)
 
 [0]: https://support.apple.com/fi-fi/HT204518
 [1]: https://support.apple.com/fi-fi/HT204505

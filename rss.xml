@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tässä testaillaan tulevaa sivustoa]]></title>
         <description><![CDATA[Tässä testaillaan tulevaa sivustoa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testisivusto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 09:28:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 09:35:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testisivusto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Watchin paritusohjeet uuteen iPhoneen]]></title>
+            <description><![CDATA[<article><h1>Apple Watchin paritusohjeet uuteen iPhoneen</h1><h2>1. Poista Apple Watch -laitepari vanhasta iPhonestasi.</h2><p>Olet mahdollisesti hankkinut jo Apple Watch -älykellon ja olet joko päivittämässä uusiin iPhone 6S -puhelimiin myöhemmin tai sitten oma puhelimesi on mennyt rikki ja saat uuden iPhonen takuuna. Joka tapauksessa, joskus tulee aika jolloin Apple Watch pitää parittaa uuteen iPhoneen syystä tai toisesta.</p></article>]]></description>
+            <link>https://thegrid.ai/testisivusto/apple-watchin-paritusohjeet-uuteen-iphoneen/index.html</link>
+            <guid isPermaLink="false">84056525-a05e-4174-b53d-84741d9f86c2</guid>
+            <pubDate>Sat, 12 Dec 2015 09:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dc0fc9d-7c05-4b82-9467-ff077864cefa.JPG">]]></description>
-            <link>undefined2c2346d0-6b02-4da4-bb50-af45c89bb0f5/index.html</link>
+            <link>https://thegrid.ai/testisivusto/2c2346d0-6b02-4da4-bb50-af45c89bb0f5/index.html</link>
             <guid isPermaLink="false">2c2346d0-6b02-4da4-bb50-af45c89bb0f5</guid>
             <pubDate>Sat, 12 Dec 2015 09:28:51 GMT</pubDate>
         </item>

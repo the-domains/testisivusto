@@ -1,7 +1,7 @@
 name: Testisivusto
 favicon: null
-layout_spectrum: 0.01221
-typography_spectrum: 0.94027
+layout_spectrum: 1
+typography_spectrum: 0
 title: Tässä testaillaan tulevaa sivustoa
 cta:
   domain: null

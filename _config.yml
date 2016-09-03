@@ -1,20 +1,4 @@
-name: Testisivusto
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0
-title: Tässä testaillaan tulevaa sivustoa
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,20 @@ color:
   lightness: 0.013265739660710096
   saturation: 0.1875
   rhythmicContrast: 0.4283141577616334
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Testisivusto
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Reunus == Weikko Digital
 purpose: []
